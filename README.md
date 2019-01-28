@@ -1,2 +1,2 @@
 # terraform-playground
-terraform coursework !
+terraform coursework
